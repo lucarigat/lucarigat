@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on my Thesis about Game Audio at SAE Institute Milano
+- 🌱 I’m currently learning about Middlewares (Wwise, FMOD), Game Engines (Unity3D, UE5), OOPs (MAX.MSP, PureData)
+- 🧠 I'm interested in Experimental Sound Design, DSP, Procedural Audio, AV Installations
+
 <!--
 **lucarigat/lucarigat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
