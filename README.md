@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi! 👋
 
 
-- 🔭 I’m currently working on my Thesis about Game Audio at SAE Institute Milano
-- 🌱 I’m currently learning about Middlewares (Wwise, FMOD), Game Engines (Unity3D, UE5), OOPLs (MAX.MSP, PureData)
+- 🔭 I’m currently working as a sound designer at Hidden Mountain, in Milano
+- 🌱 I’m learning about Middlewares (Wwise, FMOD), Game Engines (Unity3D, UE5), OOPLs (MAX.MSP, PureData)
 - 🧠 I'm interested in Experimental Sound Design, DSP, Procedural Audio, AV Installations
 
 <!--
